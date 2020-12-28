@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/01/nuspec.xsd">
+	<metadata>
+		<id>JsonDiffPatchWithRemoveValue</id>
+		<version>$version$</version>
+		<title>JsonDiffPatchWithRemoveValue</title>
+		<authors>TRACE Team</authors>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description> provides diff of 2 jsons file</description>
+		<dependencies>
+			<group targetFramework="net452">
+				<dependency id="Newtonsoft.Json" version="12.0.1" />
+			</group>
+		</dependencies>
+	</metadata>
+</package>
